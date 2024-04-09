@@ -1,0 +1,17 @@
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient.csproj.AssemblyReference.cache
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\MainWindow.baml
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\MainWindow.g.cs
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\App.g.cs
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient_MarkupCompile.cache
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient.g.resources
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient.Properties.Resources.resources
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient.csproj.GenerateResource.cache
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient.csproj.CoreCompileInputs.cache
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\bin\Debug\ReservationClient.exe.config
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\bin\Debug\ReservationClient.exe
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\bin\Debug\ReservationClient.pdb
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\bin\Debug\Newtonsoft.Json.dll
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\bin\Debug\Newtonsoft.Json.xml
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\Reservat.D8DBDA7A.Up2Date
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient.exe
+D:\University2024\ModernProgrammingTechnologies\lab7\ReservationClient\obj\Debug\ReservationClient.pdb
